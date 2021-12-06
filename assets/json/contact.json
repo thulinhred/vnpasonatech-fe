@@ -1,0 +1,274 @@
+{
+    "ja": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "お問い合わせ",
+        "company_name": "貴社名",
+        "first_last_nm": "お名前",
+        "email": "メールアドレス",
+        "tel": "電話番号",
+        "contact": "お問い合わせ内容",
+        "policy": "<a href='./policy' class='under'>当社個人情報保護方針</a> に同意される場合は、<br> こちらにチェックをお願いします。",
+        "tel_contact": "電話番号: <a href='tel:+842838127150'>+84-28-3812-7150</a> <br>(日本語/英語/ベトナム語)",
+        "mess_contact": "お気軽にお問い合わせください。",
+        "fqa": "よくある質問は <a href='./fqa' class='under'>こちら</a>",
+        "service": [
+            {
+                "name": "ITソリューションについて",
+                "value": "it",
+                "type": [
+                    "オフショア開発について",
+                    "拠点進出について",
+                    "お見積もりの相談",
+                    "その他"
+                ]
+            },
+            {
+                "name": "BPOソリューションについて",
+                "value": "bpo",
+                "type": [
+                    "CADアウトソーシングについて",
+                    "拠点進出について",
+                    "お見積もりの相談",
+                    ""
+                ]
+            },
+            {
+                "name": "HRソリューションについて",
+                "value": "hr",
+                "type": [
+                    "採用支援について",
+                    "人材派遣について",
+                    "人事コンサルティングについて",
+                    "教育・ビジネス研修について",
+                    "その他"
+                ]
+            },
+            {
+                "name": "その他",
+                "value": ""
+            }
+        ],
+        "send": "送信",
+        "mess_name": {
+            "only_one": "お名前は1文字以上で入力してください。",
+            "empty": "お名前を入力してください。"
+        },
+        "mess_email": {
+            "wrong": "有効なメールアドレスを入力してください。",
+            "empty": "メールアドレスを入力してください。"
+        },
+        "mess_tel": {
+            "wrong": "有効な電話番号を入力してください。"
+        },
+        "mess_comment": {
+            "only_one": "メッセージは1文字以上で入力してください。",
+            "empty": "お問い合わせ内容を記入してください"
+        },
+        "mess_accept_term": "当社個人情報保護方針に同意してください",
+        "mess_chosen_service": "お問い合わせ内容を選択してください"
+    },
+    "vn": {
+        "breadcrumb_home": "Trang chủ",
+        "breadcrumb_current": "Liên hệ",
+        "company_name": "Tên công ty",
+        "first_last_nm": "Họ và tên",
+        "email": "Email",
+        "tel": "Số điện thoại",
+        "contact": "Nội dung liên hệ",
+        "policy": "Vui lòng đánh dấu vào đây nếu bạn đồng ý với <a href='./policy' class='under'>Điều khoản sử dụng và Chính sách riêng tư của Pasona Tech Vietnam.</a> ",
+        "tel_contact": "TEL: <a href='tel:+842838127150'>+84-28-3812-7150</a> <br>(tiếng Nhật/tiếng Anh/tiếng Việt)",
+        "mess_contact": "Vui lòng liên hệ với chúng tôi",
+        "fqa": "Click vào đây để tìm hiểu về <a href='./fqa' class='under'>FAQ</a>",
+        "service": [
+            {
+                "name": "Về dịch vụ IT",
+                "value": "it",
+                "type": [
+                    "Dịch vụ Offshore",
+                    "Dịch vụ mở rộng chi nhánh",
+                    "Thảo luận báo giá",
+                    "Khác"
+                ]
+            },
+            {
+                "name": "Về dịch vụ BPO",
+                "value": "bpo",
+                "type": [
+                    "Dịch vụ Outsource CAD",
+                    "Dịch vụ mở rộng chi nhánh",
+                    "Thảo luận báo giá",
+                    "Khác"
+                ]
+            },
+            {
+                "name": "Về dịch vụ HR",
+                "value": "hr",
+                "type": [
+                    "Dịch vụ hỗ trợ tuyển dụng",
+                    "Dịch vụ cho thuê nhân sự",
+                    "Dịch vụ tư vấn nhân sự",
+                    "Đào tạo giáo dục và kinh doanh",
+                    "Khác"
+                ]
+            },
+            {
+                "name": "Khác",
+                "value": ""
+            }
+        ],
+        "mess_name": {
+            "only_one": "Họ và tên cần nhiều hơn 1 ký tự",
+            "empty": "Xin hãy nhập họ và tên"
+        },
+        "mess_email": {
+            "wrong": "Xin hãy nhập email hợp lệ",
+            "empty": "Xin hãy nhập email"
+        },
+        "mess_tel": {
+            "wrong": "Xin hãy nhập số điện thoại hợp lệ"
+        },
+        "mess_comment": {
+            "only_one": "Nội dung tin nhắn cần nhiều hơn 1 ký tự",
+            "empty": "Xin hãy nhập nội dung liên hệ"
+        },
+        "mess_accept_term": "Xin hãy đánh dấu đồng ý với Điều khoản sử dụng và Chính sách riêng tư của Pasona Tech Vietnam.",
+        "mess_chosen_service": "Xin hãy lựa chọn nội dung liên hệ",
+        "send": "Gửi"
+    },
+    "en": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "お問い合わせ",
+        "company_name": "貴社名",
+        "first_last_nm": "お名前",
+        "email": "メールアドレス",
+        "tel": "電話番号",
+        "contact": "お問い合わせ内容",
+        "policy": "<a href='./policy' class='under'>当社個人情報保護方針</a> に同意される場合は、<br> こちらにチェックをお願いします。",
+        "tel_contact": "電話番号: <a href='tel:+842838127150'>+84-28-3812-7150</a> <br>(日本語/英語/ベトナム語)",
+        "mess_contact": "お気軽にお問い合わせください。",
+        "fqa": "よくある質問は <a href='./fqa' class='under'>こちら</a>",
+        "service": [
+            {
+                "name": "ITソリューションについて",
+                "value": "it",
+                "type": [
+                    "オフショア開発について",
+                    "拠点進出について",
+                    "お見積もりの相談",
+                    "その他"
+                ]
+            },
+            {
+                "name": "BPOソリューションについて",
+                "value": "bpo",
+                "type": [
+                    "CADアウトソーシングについて",
+                    "拠点進出について",
+                    "お見積もりの相談",
+                    ""
+                ]
+            },
+            {
+                "name": "HRソリューションについて",
+                "value": "hr",
+                "type": [
+                    "採用支援について",
+                    "人材派遣について",
+                    "人事コンサルティングについて",
+                    "教育・ビジネス研修について",
+                    "その他"
+                ]
+            },
+            {
+                "name": "その他",
+                "value": ""
+            }
+        ],
+        "mess_name": {
+            "only_one": "お名前は1文字以上で入力してください。",
+            "empty": "お名前を入力してください。"
+        },
+        "mess_email": {
+            "wrong": "有効なメールアドレスを入力してください。",
+            "empty": "メールアドレスを入力してください。"
+        },
+        "mess_tel": {
+            "wrong": "有効な電話番号を入力してください。"
+        },
+        "mess_comment": {
+            "only_one": "メッセージは1文字以上で入力してください。",
+            "empty": "お問い合わせ内容を記入してください"
+        },
+        "mess_accept_term": "当社個人情報保護方針に同意してください",
+        "mess_chosen_service": "お問い合わせ内容を選択してください",
+        "send": "送信"
+    },
+    "kr": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "お問い合わせ",
+        "company_name": "貴社名",
+        "first_last_nm": "お名前",
+        "email": "メールアドレス",
+        "tel": "電話番号",
+        "contact": "お問い合わせ内容",
+        "policy": "<a href='./policy' class='under'>当社個人情報保護方針</a> に同意される場合は、<br> こちらにチェックをお願いします。",
+        "tel_contact": "電話番号: <a href='tel:+842838127150'>+84-28-3812-7150</a> <br>(日本語/英語/ベトナム語)",
+        "mess_contact": "お気軽にお問い合わせください。",
+        "fqa": "よくある質問は <a href='./fqa' class='under'>こちら</a>",
+        "service": [
+            {
+                "name": "ITソリューションについて",
+                "value": "it",
+                "type": [
+                    "オフショア開発について",
+                    "拠点進出について",
+                    "お見積もりの相談",
+                    "その他"
+                ]
+            },
+            {
+                "name": "BPOソリューションについて",
+                "value": "bpo",
+                "type": [
+                    "CADアウトソーシングについて",
+                    "拠点進出について",
+                    "お見積もりの相談",
+                    ""
+                ]
+            },
+            {
+                "name": "HRソリューションについて",
+                "value": "hr",
+                "type": [
+                    "採用支援について",
+                    "人材派遣について",
+                    "人事コンサルティングについて",
+                    "教育・ビジネス研修について",
+                    "その他"
+                ]
+            },
+            {
+                "name": "その他",
+                "value": ""
+            }
+        ],
+        "mess_name": {
+            "only_one": "お名前は1文字以上で入力してください。",
+            "empty": "お名前を入力してください。"
+        },
+        "mess_email": {
+            "wrong": "有効なメールアドレスを入力してください。",
+            "empty": "メールアドレスを入力してください。"
+        },
+        "mess_tel": {
+            "wrong": "有効な電話番号を入力してください。"
+        },
+        "mess_comment": {
+            "only_one": "メッセージは1文字以上で入力してください。",
+            "empty": "お問い合わせ内容を記入してください"
+        },
+        "mess_accept_term": "当社個人情報保護方針に同意してください",
+        "mess_chosen_service": "お問い合わせ内容を選択してください",
+        "send": "送信"
+    }
+}

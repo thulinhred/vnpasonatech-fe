@@ -1,0 +1,298 @@
+{
+    "ja": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "よくある質問",
+        "header": "よくある質問",
+        "ques_it": "ITソリューションに関する質問",
+        "ques_bpo": "BPOソリューションに関する質問",
+        "ques_hr": "HRソリューションに関する質問",
+        "it": [
+            {
+                "quest": "業務における連絡時の言語は？通訳は可能ですか？",
+                "ans": "経験豊富な日本語通訳者が10名ほど在籍しております。<br>エンジニアとコミュニケーションをとる際に、通訳を通すことで、潤滑に業務を進められるようにしています。<br>また、社内では日本語教師による日本語研修を積極的に行い、日本語能力の向上を図っております。"
+            },
+            {
+                "quest": "社内のセキュリティーに関してはどのような対策をとられてますか？",
+                "ans": "オフィス入り口にはセキュリティーカードを導入し、ご要望に応じて専用ルームや専用のネットワークのご準備も承っております。"
+            },
+            {
+                "quest": "エンジニアは何名ほど在籍していますか？",
+                "ans": "70名ほど在籍しております"
+            },
+            {
+                "quest": "ブリッジとなる日本人はいますか？",
+                "ans": "日本人は、現地に10名ほど在籍しております。<br>お客様と現地とのコミュニケーションを潤滑にできるよう対応いたします。"
+            }
+        ],
+        "bpo": [
+            {
+                "quest": "見積依頼あたり、必要な要件。また導入に必要な費用を教えてください。",
+                "ans": "お見積につきましては、運営時間、予定する業務、言語要件等を元に算出いたします。<br>サービス導入・運用におきましては、業務設計・マニュアル整備等も含め、適宜ご相談をさせていただきます。"
+            },
+            {
+                "quest": "稼働するスタッフの採用基準について教えてください。",
+                "ans": "人材要件につきましてお客様と協議したうえで、その基準を満たす採用を行っております。"
+            },
+            {
+                "quest": "日本語でのコミュニケーションは可能でしょうか？",
+                "ans": "リーダーとなるスタッフが、日本語でお客様とコミュニケーションを行います。"
+            },
+            {
+                "quest": "業務量の変動があるのですが、必要に応じて契約業務の拡張・変更は可能でしょうか？",
+                "ans": "対象業務および工数を精査したうえで、適正な体制をご提供いたします。"
+            },
+            {
+                "quest": "社内のセキュリティーに関してはどのような対策をとられてますか？",
+                "ans": "オフィス入り口にはセキュリティーカードを導入し、ご要望に応じて専用ルームや専用のネットワークのご準備も承っております。"
+            }
+        ],
+        "hr": [
+            {
+                "quest": "人材の紹介が可能な地域を教えてください。",
+                "ans": "ベトナム国内全土へ人材の紹介が可能です。"
+            },
+            {
+                "quest": "どのような方が登録されていますか？",
+                "ans": "実務経験年数が3年以上で、外国語能力を有した即戦力人材となる方に多くご登録いただいています。"
+            },
+            {
+                "quest": "人材紹介の料金システムについて教えてください。",
+                "ans": "人材紹介サービスは完全成功報酬型となりますので、人材のご決定をいただくまでは料金は発生いたしません。詳しくはお問い合わせください。"
+            },
+            {
+                "quest": "求人依頼方法を教えてください。",
+                "ans": "<div>お問い合わせフォームよりお気軽にお問い合わせください。<br><a target='_blank' href='./contact' class='under'>お問い合わせはこちら</a></div>"
+            },
+            {
+                "quest": "人材派遣サービスはありますか？",
+                "ans": "<div>人材派遣サービスも行っておりますが、業種に限りがございます。詳細はお問い合わせください。<br><a target='_blank' href='./contact' class='under'>お問い合わせはこちら</a></div>"
+            },
+            {
+                "quest": "法人向けにはどのような研修をしていますか？",
+                "ans": "新入社員研修から中堅社員・課長・部長を対象とした“階層別研修”、コミュニケーション能力・リーダーシップなどの“テーマ別研修”を開催しています。<br>また、お客様の解決したい課題をお聞きした上で、企業のカラーや研修受講者の行動パターン・適性などをあらゆる角度から分析し、最適な“カスタムメイド研修”も提案しています。詳しくはお問い合わせください。"
+            }
+        ]
+    },
+    "vn": {
+        "breadcrumb_home": "Trang chủ",
+        "breadcrumb_current": "Các câu hỏi thường gặp",
+        "header": "Các câu hỏi thường gặp",
+        "ques_it": "Các câu hỏi liên quan tới dịch vụ IT",
+        "ques_bpo": "Các câu hỏi liên quan tới dịch vụ BPO",
+        "ques_hr": "Các câu hỏi liên quan tới dịch vụ HR",
+        "it": [
+            {
+                "quest": "Ngôn ngữ dùng khi liên hệ để bàn bạc công việc là gì? Có thể thông dịch được không?",
+                "ans": "Có khoảng 10 thông dịch viên tiếng Nhật nhiều kinh nghiệm đang làm việc trong công ty chúng tôi.<br>Mỗi khi khách hàng giao tiếp với kỹ sư của công ty chúng tôi, thông qua thông dịch, sẽ giúp cho công việc được tiến hành suôn sẻ hơn.<br>Ngoài ra, chúng tôi cũng tích cực tổ chức các buổi học tập tiếng Nhật trong nội bộ với mục đích nâng cao năng lực Nhật ngữ của nhân viên."
+            },
+            {
+                "quest": "Công ty đang thực hiện các chính sách gì đối với việc bảo mật nội bộ?",
+                "ans": "Tại văn phòng, chúng tôi có lắp đặt security card tại cửa ra vào, và chúng tôi cũng có thể chuẩn bị một phòng chuyên dụng hoặc một network chuyên dụng theo yêu cầu của khách hàng."
+            },
+            {
+                "quest": "Hiện có bao nhiêu kỹ sư đang làm việc trong công ty?",
+                "ans": "Hiện tại, có khoảng 70 kỹ sư đang làm việc trong công ty chúng tôi."
+            },
+            {
+                "quest": "Trong công ty có nhân viên người Nhật nào để làm cầu nối với khách hàng không？",
+                "ans": "Hiện giờ, công ty chúng tôi có khoảng 10 nhân viên người Nhật đang làm việc onsite tại Việt Nam.<br>Chúng tôi luôn nỗ lực đáp ứng để sao cho việc giao tiếp trao đổi giữa khách hàng và các nhân viên onsite được thực hiện suôn sẻ."
+            }
+        ],
+        "bpo": [
+            {
+                "quest": "Hãy cho biết công ty cần các thông tin gì để làm bản báo giá. Ngoài ra cũng hãy cho biết chi phí cần thiết để sử dụng dịch vụ.",
+                "ans": "Về bản báo giá thì công ty chúng tôi sẽ tính toán dựa theo các thông tin như thời gian làm việc, loại công việc dự định, yêu cầu về ngôn ngữ v.v...<br>Về các bước chuẩn bị để đăng ký・sử dụng dịch vụ, bao gồm cả việc thiết kế nghiệp vụ・chỉnh sửa tài liệu manual, thì chúng tôi sẽ thảo luận với khách hàng để cùng đưa ra một cách thức thích hợp."
+            },
+            {
+                "quest": "Hãy cho biết các tiêu chí tuyển dụng của công ty khi tuyển nhân viên vào làm việc.",
+                "ans": "Sau khi bàn bạc với khách hàng về các yêu cầu nhân sự cụ thể, công ty chúng tôi sẽ tiến hành tuyển dụng lao động thỏa mãn các tiêu chí đã đề ra."
+            },
+            {
+                "quest": "Nhân viên của công ty có thể giao tiếp bằng tiếng Nhật không?",
+                "ans": "Những nhân viên có chức vụ leader sẽ phụ trách việc trao đổi với khách hàng bằng tiếng Nhật."
+            },
+            {
+                "quest": "Khi có thay đổi về khối lượng công việc, thì nếu cần có thể bổ sung・cập nhật hợp đồng nghiệp vụ hay không？",
+                "ans": "Phía chúng tôi sẽ đề xuất cho khách hàng một hệ thống phù hợp dựa trên sự xem xét kỹ lưỡng về nội dung công việc và số giờ công."
+            },
+            {
+                "quest": "Công ty đang thực hiện các chính sách gì đối với việc bảo mật nội bộ?",
+                "ans": "Tại văn phòng, chúng tôi có lắp đặt security card tại cửa ra vào, và chúng tôi cũng có thể chuẩn bị một phòng chuyên dụng hoặc một network chuyên dụng theo yêu cầu của khách hàng."
+            }
+        ],
+        "hr": [
+            {
+                "quest": "Hãy cho biết các khu vực địa phương mà công ty có thể giới thiệu nhân sự.",
+                "ans": "Công ty chúng tôi có thể giới thiệu nhân sự đến toàn bộ địa phương trên khắp nước Việt Nam."
+            },
+            {
+                "quest": "Các nhân sự đã đăng ký với công ty là những người thế nào?",
+                "ans": "Công ty chúng tôi đã ký kết với nhiều nhân sự có thâm niên kinh nghiệm từ 3 năm trở lên, và có khả năng ngoại ngữ sẵn sàng để nhận việc."
+            },
+            {
+                "quest": "Hãy cho biết hệ thống chi phí của dịch vụ giới thiệu nhân sự.",
+                "ans": "Dịch vụ giới thiệu nhân sự là loại hình chỉ thu phí sau khi đã giới thiệu thành công, vì vậy sẽ không có bất cứ chi phí nào phát sinh cho đến khi nhân sự đồng ý ký kết hợp đồng. Để biết thêm chi tiết, xin vui lòng liên hệ với công ty chúng tôi."
+            },
+            {
+                "quest": "Hãy cho biết cách thức để đặt yêu cầu tuyển dụng lao động.",
+                "ans": "<div>Xin vui lòng liên lạc chi tiết với chúng tôi qua mẫu đơn liên hệ.<br><a target='_blank' href='./contact' class='under'>Để liên hệ xin click vào đây.</a></div>"
+            },
+            {
+                "quest": "Công ty có dịch vụ cho thuê nhân sự không?",
+                "ans": "<div>Công ty chúng tôi cũng thực hiện dịch vụ cho thuê nhân sự, nhưng chỉ giới hạn với một số loại công việc. Để biết thêm chi tiết xin vui lòng liên hệ với chúng tôi.<br><a target='_blank' href='./contact' class='under'>Để liên hệ xin click vào đây.</a></div>"
+            },
+            {
+                "quest": "Công ty có các chương trình đào tạo nhân lực nào dành cho các tập đoàn?",
+                "ans": "Công ty chúng tôi có tổ chức các chương trình như \"đào tạo theo cấp bậc\" dành cho các đối tượng từ nhân viên junior cho đến nhân viên senior・trưởng nhóm・trưởng phòng, \"đào tạo theo chủ đề\" như nâng cao năng lực giao tiếp・năng lực leadership v.v...<br>Ngoài ra, trên cơ sở lắng nghe các vấn đề mà khách hàng mong muốn giải quyết, chúng tôi sẽ phân tích các thông tin như văn hóa doanh nghiệp, hành vi, năng khiếu của học viên từ nhiều góc độ, để đề xuất một chương trình \"đào tạo theo yêu cầu\" tối ưu nhất. Để biết thêm chi tiết xin vui lòng liên hệ với công ty chúng tôi."
+            }
+        ]
+    },
+    "en": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "よくある質問",
+        "header": "よくある質問",
+        "ques_it": "ITソリューションに関する質問",
+        "ques_bpo": "BPOソリューションに関する質問",
+        "ques_hr": "HRソリューションに関する質問",
+        "it": [
+            {
+                "quest": "業務における連絡時の言語は？通訳は可能ですか？",
+                "ans": "経験豊富な日本語通訳者が10名ほど在籍しております。<br>エンジニアとコミュニケーションをとる際に、通訳を通すことで、潤滑に業務を進められるようにしています。<br>また、社内では日本語教師による日本語研修を積極的に行い、日本語能力の向上を図っております。"
+            },
+            {
+                "quest": "社内のセキュリティーに関してはどのような対策をとられてますか？",
+                "ans": "オフィス入り口にはセキュリティーカードを導入し、ご要望に応じて専用ルームや専用のネットワークのご準備も承っております。"
+            },
+            {
+                "quest": "エンジニアは何名ほど在籍していますか？",
+                "ans": "70名ほど在籍しております"
+            },
+            {
+                "quest": "ブリッジとなる日本人はいますか？",
+                "ans": "日本人は、現地に10名ほど在籍しております。<br>お客様と現地とのコミュニケーションを潤滑にできるよう対応いたします。"
+            }
+        ],
+        "bpo": [
+            {
+                "quest": "見積依頼あたり、必要な要件。また導入に必要な費用を教えてください。",
+                "ans": "お見積につきましては、運営時間、予定する業務、言語要件等を元に算出いたします。<br>サービス導入・運用におきましては、業務設計・マニュアル整備等も含め、適宜ご相談をさせていただきます。"
+            },
+            {
+                "quest": "稼働するスタッフの採用基準について教えてください。",
+                "ans": "人材要件につきましてお客様と協議したうえで、その基準を満たす採用を行っております。"
+            },
+            {
+                "quest": "日本語でのコミュニケーションは可能でしょうか？",
+                "ans": "リーダーとなるスタッフが、日本語でお客様とコミュニケーションを行います。"
+            },
+            {
+                "quest": "業務量の変動があるのですが、必要に応じて契約業務の拡張・変更は可能でしょうか？",
+                "ans": "対象業務および工数を精査したうえで、適正な体制をご提供いたします。"
+            },
+            {
+                "quest": "社内のセキュリティーに関してはどのような対策をとられてますか？",
+                "ans": "オフィス入り口にはセキュリティーカードを導入し、ご要望に応じて専用ルームや専用のネットワークのご準備も承っております。"
+            }
+        ],
+        "hr": [
+            {
+                "quest": "人材の紹介が可能な地域を教えてください。",
+                "ans": "ベトナム国内全土へ人材の紹介が可能です。"
+            },
+            {
+                "quest": "どのような方が登録されていますか？",
+                "ans": "実務経験年数が3年以上で、外国語能力を有した即戦力人材となる方に多くご登録いただいています。"
+            },
+            {
+                "quest": "人材紹介の料金システムについて教えてください。",
+                "ans": "人材紹介サービスは完全成功報酬型となりますので、人材のご決定をいただくまでは料金は発生いたしません。詳しくはお問い合わせください。"
+            },
+            {
+                "quest": "求人依頼方法を教えてください。",
+                "ans": "<div>お問い合わせフォームよりお気軽にお問い合わせください。<br><a target='_blank' href='./contact' class='under'>お問い合わせはこちら</a></div>"
+            },
+            {
+                "quest": "人材派遣サービスはありますか？",
+                "ans": "<div>人材派遣サービスも行っておりますが、業種に限りがございます。詳細はお問い合わせください。<br><a target='_blank' href='./contact' class='under'>お問い合わせはこちら</a></div>"
+            },
+            {
+                "quest": "法人向けにはどのような研修をしていますか？",
+                "ans": "新入社員研修から中堅社員・課長・部長を対象とした“階層別研修”、コミュニケーション能力・リーダーシップなどの“テーマ別研修”を開催しています。<br>また、お客様の解決したい課題をお聞きした上で、企業のカラーや研修受講者の行動パターン・適性などをあらゆる角度から分析し、最適な“カスタムメイド研修”も提案しています。詳しくはお問い合わせください。"
+            }
+        ]
+    },
+    "kr": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "よくある質問",
+        "header": "よくある質問",
+        "ques_it": "ITソリューションに関する質問",
+        "ques_bpo": "BPOソリューションに関する質問",
+        "ques_hr": "HRソリューションに関する質問",
+        "it": [
+            {
+                "quest": "業務における連絡時の言語は？通訳は可能ですか？",
+                "ans": "経験豊富な日本語通訳者が10名ほど在籍しております。<br>エンジニアとコミュニケーションをとる際に、通訳を通すことで、潤滑に業務を進められるようにしています。<br>また、社内では日本語教師による日本語研修を積極的に行い、日本語能力の向上を図っております。"
+            },
+            {
+                "quest": "社内のセキュリティーに関してはどのような対策をとられてますか？",
+                "ans": "オフィス入り口にはセキュリティーカードを導入し、ご要望に応じて専用ルームや専用のネットワークのご準備も承っております。"
+            },
+            {
+                "quest": "エンジニアは何名ほど在籍していますか？",
+                "ans": "70名ほど在籍しております"
+            },
+            {
+                "quest": "ブリッジとなる日本人はいますか？",
+                "ans": "日本人は、現地に10名ほど在籍しております。<br>お客様と現地とのコミュニケーションを潤滑にできるよう対応いたします。"
+            }
+        ],
+        "bpo": [
+            {
+                "quest": "見積依頼あたり、必要な要件。また導入に必要な費用を教えてください。",
+                "ans": "お見積につきましては、運営時間、予定する業務、言語要件等を元に算出いたします。<br>サービス導入・運用におきましては、業務設計・マニュアル整備等も含め、適宜ご相談をさせていただきます。"
+            },
+            {
+                "quest": "稼働するスタッフの採用基準について教えてください。",
+                "ans": "人材要件につきましてお客様と協議したうえで、その基準を満たす採用を行っております。"
+            },
+            {
+                "quest": "日本語でのコミュニケーションは可能でしょうか？",
+                "ans": "リーダーとなるスタッフが、日本語でお客様とコミュニケーションを行います。"
+            },
+            {
+                "quest": "業務量の変動があるのですが、必要に応じて契約業務の拡張・変更は可能でしょうか？",
+                "ans": "対象業務および工数を精査したうえで、適正な体制をご提供いたします。"
+            },
+            {
+                "quest": "社内のセキュリティーに関してはどのような対策をとられてますか？",
+                "ans": "オフィス入り口にはセキュリティーカードを導入し、ご要望に応じて専用ルームや専用のネットワークのご準備も承っております。"
+            }
+        ],
+        "hr": [
+            {
+                "quest": "人材の紹介が可能な地域を教えてください。",
+                "ans": "ベトナム国内全土へ人材の紹介が可能です。"
+            },
+            {
+                "quest": "どのような方が登録されていますか？",
+                "ans": "実務経験年数が3年以上で、外国語能力を有した即戦力人材となる方に多くご登録いただいています。"
+            },
+            {
+                "quest": "人材紹介の料金システムについて教えてください。",
+                "ans": "人材紹介サービスは完全成功報酬型となりますので、人材のご決定をいただくまでは料金は発生いたしません。詳しくはお問い合わせください。"
+            },
+            {
+                "quest": "求人依頼方法を教えてください。",
+                "ans": "<div>お問い合わせフォームよりお気軽にお問い合わせください。<br><a target='_blank' href='./contact' class='under'>お問い合わせはこちら</a></div>"
+            },
+            {
+                "quest": "人材派遣サービスはありますか？",
+                "ans": "<div>人材派遣サービスも行っておりますが、業種に限りがございます。詳細はお問い合わせください。<br><a target='_blank' href='./contact' class='under'>お問い合わせはこちら</a></div>"
+            },
+            {
+                "quest": "法人向けにはどのような研修をしていますか？",
+                "ans": "新入社員研修から中堅社員・課長・部長を対象とした“階層別研修”、コミュニケーション能力・リーダーシップなどの“テーマ別研修”を開催しています。<br>また、お客様の解決したい課題をお聞きした上で、企業のカラーや研修受講者の行動パターン・適性などをあらゆる角度から分析し、最適な“カスタムメイド研修”も提案しています。詳しくはお問い合わせください。"
+            }
+        ]
+    }
+}

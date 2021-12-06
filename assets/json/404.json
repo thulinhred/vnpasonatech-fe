@@ -1,0 +1,18 @@
+{
+    "ja": {
+        "message": "お探しのページは見つかりませんでした",
+        "btn_home": "Home"
+    },
+    "vn": {
+        "message": "Không tìm thấy trang bạn yêu cầu",
+        "btn_home": "Trang chủ"
+    },
+    "en": {
+        "message": "お探しのページは見つかりませんでした",
+        "btn_home": "Home"
+    },
+    "kr": {
+        "message": "お探しのページは見つかりませんでした",
+        "btn_home": "Home"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ja": {
+        "message": "サーバーで問題が発生しているためページを表示できません。<br>しばらく時間をおいてからやり直してください",
+        "btn_home": "Home"
+    },
+    "vn": {
+        "message": "Không thể hiển thị trang bạn muốn truy cập do vấn đề server.<br>Xin hãy đợi trong vài phút và thực hiện truy cập lại.",
+        "btn_home": "Trang chủ"
+    },
+    "en": {
+        "message": "サーバーで問題が発生しているためページを表示できません。<br>しばらく時間をおいてからやり直してください",
+        "btn_home": "Home"
+    },
+    "kr": {
+        "message": "サーバーで問題が発生しているためページを表示できません。<br>しばらく時間をおいてからやり直してください",
+        "btn_home": "Home"
+    }
+}

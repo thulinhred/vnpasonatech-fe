@@ -1,0 +1,368 @@
+{
+    "ja": {
+        "text_intro" : "<p>「Humanware＝人とテクノロジーのつながり」を 最大化できるサービスカンパニーとして、<br> より多くの「人＝エンジニア」に寄り添い、限りない支援を行い、豊かな社会をつくる「テクノロジー」とつなぎあわせ、<br> 私たちだからできるシナジーを生み出します。</p>",
+        "signature" : "Pasona Tech Vietnamについてさらに詳しく",
+        "news" : [
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            }
+        ],
+        "service" : [
+            {
+                "name" : "ITソリューション",
+                "field" : [
+                    {
+                        "name" : "android開発"
+                    }, {
+                        "name" : "QA/QC"
+                    },
+                    {
+                        "name" : "ラボ型アウトソーシング"
+                    },
+                    {
+                        "name" : "拠点進出支援"
+                    }
+                ]
+            },
+            {
+                "name" : "BPOソリューション",
+                "field" : [
+                    {
+                        "name" : "CADオペレーション"
+                    }, {
+                        "name" : "ラボ型アウトソーシング"
+                    },
+                    {
+                        "name" : "拠点進出支援"
+                    }
+                ]
+            },
+            {
+                "name" : "HRソリューション",
+                "field" : [
+                    {
+                        "name" : "採用支援"
+                    }, {
+                        "name" : "人材派遣"
+                    },
+                    {
+                        "name" : "人事コンサルティング"
+                    },
+                    {
+                        "name" : "教育ビジネス研修"
+                    }
+                ]
+            }
+        ],
+        "blogs": [
+            {
+                "header" : "アジャイル開発のメリットとデメリットについてわかりやすく解説します",
+                "title" : "カテゴリ",
+                "date" : "2021-10-05"
+            },
+            {
+                "header" : "アジャイル開発のメリットとデメリットについてわかりやすく解説します",
+                "title" : "カテゴリ",
+                "date" : "2021-10-05"
+            },
+            {
+                "header" : "アジャイル開発のメリットとデメリットについてわかりやすく解説します",
+                "title" : "カテゴリ",
+                "date" : "2021-10-05"
+            }
+        ]
+    },
+    "vn": {
+        "text_intro" : "<p>Là một công ty dịch vụ được tối đa hóa về「Humanware＝ Sự kết nối giữa con người và công nghệ」,<br> chúng tôi sẽ làm việc gần gũi hơn với nhiều「Người = Kỹ sư」hơn, cung cấp sự hỗ trợ không giới hạn và kết nối với「Công nghệ」để tạo ra một xã hội thịnh vượng, tạo ra sức mạnh tổng hợp mà chỉ Pasona có thể thực hiện.</p>",
+        "signature" : "Tìm hiểu thêm về Pasona Tech Vietnam",
+        "news" : [
+            {
+                "date" : "2021-10-10",
+                "title" : "Sự kiện",
+                "content" : "【18/8 18:30】Cơ hội chuyển đổi nghề nghiệp từ lao động thiếu kinh nghiệm sang kỹ sư! Một cách làm việc hoàn toàn mới! Hãy tham gia hội thảo online ngay!"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "Sự kiện",
+                "content" : "【18/8 18:30】Cơ hội chuyển đổi nghề nghiệp từ lao động thiếu kinh nghiệm sang kỹ sư! Một cách làm việc hoàn toàn mới! Hãy tham gia hội thảo online ngay!"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "Sự kiện",
+                "content" : "【18/8 18:30】Cơ hội chuyển đổi nghề nghiệp từ lao động thiếu kinh nghiệm sang kỹ sư! Một cách làm việc hoàn toàn mới! Hãy tham gia hội thảo online ngay!"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "Sự kiện",
+                "content" : "【18/8 18:30】Cơ hội chuyển đổi nghề nghiệp từ lao động thiếu kinh nghiệm sang kỹ sư! Một cách làm việc hoàn toàn mới! Hãy tham gia hội thảo online ngay!"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "Sự kiện",
+                "content" : "【18/8 18:30】Cơ hội chuyển đổi nghề nghiệp từ lao động thiếu kinh nghiệm sang kỹ sư! Một cách làm việc hoàn toàn mới! Hãy tham gia hội thảo online ngay!"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "Sự kiện",
+                "content" : "【18/8 18:30】Cơ hội chuyển đổi nghề nghiệp từ lao động thiếu kinh nghiệm sang kỹ sư! Một cách làm việc hoàn toàn mới! Hãy tham gia hội thảo online ngay!"
+            }
+        ],
+        "service" : [
+            {
+                "name" : "Dịch vụ IT",
+                "field" : [
+                    {
+                        "name" : "Lập trình android"
+                    }, {
+                        "name" : "QA/QC"
+                    },
+                    {
+                        "name" : "Outsource theo mô hình Lab"
+                    },
+                    {
+                        "name" : "Hỗ trợ mở rộng chi nhánh"
+                    }
+                ]
+            },
+            {
+                "name" : "Dịch vụ BPO",
+                "field" : [
+                    {
+                        "name" : "Nghiệp vụ CAD"
+                    }, {
+                        "name" : "Outsource theo mô hình Lab"
+                    },
+                    {
+                        "name" : "Hỗ trợ mở rộng chi nhánh"
+                    }
+                ]
+            },
+            {
+                "name" : "Dịch vụ HR",
+                "field" : [
+                    {
+                        "name" : "Hỗ trợ tuyển dụng"
+                    }, {
+                        "name" : "Cho thuê nhân sự"
+                    },
+                    {
+                        "name" : "Tư vấn nhân sự"
+                    },
+                    {
+                        "name" : "Đào tạo giáo dục・kinh doanh"
+                    }
+                ]
+            }
+        ],
+        "blogs": [
+            {
+                "header" : "Giải thích đơn giản về ưu điểm và nhược điểm của lập trình Agile",
+                "title" : "Category",
+                "date" : "2021-10-05"
+            },
+            {
+                "header" : "Giải thích đơn giản về ưu điểm và nhược điểm của lập trình Agile",
+                "title" : "Category",
+                "date" : "2021-10-05"
+            },
+            {
+                "header" : "Giải thích đơn giản về ưu điểm và nhược điểm của lập trình Agile",
+                "title" : "Category",
+                "date" : "2021-10-05"
+            }
+        ]
+    },
+    "en": {
+        "text_intro" : "<p>「Humanware＝人とテクノロジーのつながり」を 最大化できるサービスカンパニーとして、<br> より多くの「人＝エンジニア」に寄り添い、限りない支援を行い、豊かな社会をつくる「テクノロジー」とつなぎあわせ、<br> 私たちだからできるシナジーを生み出します。</p>",
+        "signature" : "Pasona Tech Vietnamについてさらに詳しく",
+        "news" : [
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            }
+        ],
+        "service" : [
+            {
+                "name" : "ITソリューション",
+                "field" : [
+                    {
+                        "name" : "android開発"
+                    }, {
+                        "name" : "QA/QC"
+                    },
+                    {
+                        "name" : "ラボ型アウトソーシング"
+                    },
+                    {
+                        "name" : "拠点進出支援"
+                    }
+                ]
+            },
+            {
+                "name" : "BPOソリューション",
+                "field" : [
+                    {
+                        "name" : "CADオペレーション"
+                    }, {
+                        "name" : "ラボ型アウトソーシング"
+                    },
+                    {
+                        "name" : "拠点進出支援"
+                    }
+                ]
+            },
+            {
+                "name" : "HRソリューション",
+                "field" : [
+                    {
+                        "name" : "採用支援"
+                    }, {
+                        "name" : "人材派遣"
+                    },
+                    {
+                        "name" : "人事コンサルティング"
+                    },
+                    {
+                        "name" : "教育ビジネス研修"
+                    }
+                ]
+            }
+        ]
+    },
+    "kr": {
+        "text_intro" : "<p>「Humanware＝人とテクノロジーのつながり」を 最大化できるサービスカンパニーとして、<br> より多くの「人＝エンジニア」に寄り添い、限りない支援を行い、豊かな社会をつくる「テクノロジー」とつなぎあわせ、<br> 私たちだからできるシナジーを生み出します。</p>",
+        "signature" : "Pasona Tech Vietnamについてさらに詳しく",
+        "news" : [
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            },
+            {
+                "date" : "2021-10-10",
+                "title" : "イベント",
+                "content" : "8月18日(水)18:30】未経験からエンジニアへキャリアシフト！新たな働き方！オンラインセミナー開催！"
+            }
+        ],
+        "service" : [
+            {
+                "name" : "ITソリューション",
+                "field" : [
+                    {
+                        "name" : "android開発"
+                    }, {
+                        "name" : "QA/QC"
+                    },
+                    {
+                        "name" : "ラボ型アウトソーシング"
+                    },
+                    {
+                        "name" : "拠点進出支援"
+                    }
+                ]
+            },
+            {
+                "name" : "BPOソリューション",
+                "field" : [
+                    {
+                        "name" : "CADオペレーション"
+                    }, {
+                        "name" : "ラボ型アウトソーシング"
+                    },
+                    {
+                        "name" : "拠点進出支援"
+                    }
+                ]
+            },
+            {
+                "name" : "HRソリューション",
+                "field" : [
+                    {
+                        "name" : "採用支援"
+                    }, {
+                        "name" : "人材派遣"
+                    },
+                    {
+                        "name" : "人事コンサルティング"
+                    },
+                    {
+                        "name" : "教育ビジネス研修"
+                    }
+                ]
+            }
+        ]
+    }
+}

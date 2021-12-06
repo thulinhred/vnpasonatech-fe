@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Pasona Tech Viet Nam</title>
+    <meta content="" name="description">
+
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" />
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/vendor/swiper/swiper-bundle.min.css" />
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    </script>
+</head>
+
+<body>
+
+    <script id="template" type="text/template">
+        <!-- ======= Hero Section ======= -->
+        <section id="main-top" class="main-top d-flex">
+            <div class="container-fluid">
+                <div class="main-top__link">
+                    <a href="./">
+                        {{breadcrumb_home}}
+                    </a> > {{breadcrumb_current}}
+                </div>
+                <div class="row">
+                    <p>{{header}}</p>
+                </div>
+            </div>
+        </section><!-- End Hero -->
+
+        <main id="main">
+            <!-- ======= content Section ======= -->
+            <section id="contents" class="contents">
+                <div class="container">
+                    <div id="philosophy" class="philosophy" data-aos="fade-up">
+                        <div class="ms-title">
+                            <span>{{phil_title}}</span>
+                        </div>
+                        <div class="ms-page-title">
+                            <span>{{phil_page_title}}</span>
+                        </div>
+                        <div class="ms-description">
+                            <span>{{{phil_desc}}</span>
+                        </div>
+                        <div class="ms-link">
+                            <a href=""><span>
+                                {{phil_link}}
+                            </span></a>
+                        </div>
+                    </div>
+                    <div id="mission" class="mission" data-aos="fade-up">
+                        <div class="ms-title">
+                            <span>{{mission_title}}</span>
+                        </div>
+                        <div class="ms-description">
+                            <span>{{{mission_desc}}}</span>
+                        </div>
+                    </div>
+                    <div id="vision" class="vision" data-aos="fade-up">
+                        <div class="ms-title">
+                            <span>{{vision_title}}</span>
+                        </div>
+                        <div class="ms-page-title">
+                            <span>{{vision_page_title}}</span>
+                        </div>
+                        <div class="ms-description">
+                            <span>{{{vision_desc}}}</span>
+                        </div>
+                    </div>
+                    <div id="message" class="message">
+                        <div class="row border-left" data-aos="zoom-in-up">
+                            <div class="col-lg-6 col-xs-12 ms-text">
+                                <div class="ms-box">
+                                    <div class="ms-header">
+                                        <span>{{msg_header1}}</span>
+                                    </div>
+                                    <div class="ms-content">
+                                        <span>{{{msg_content1}}}</span>
+                                    </div>
+
+                                </div>
+                                <div class="ms-signature">
+                                    <span>{{{msg_sign1}}}</span>
+                                </div>
+
+                            </div>
+                            <div class="col-lg-6 col-xs-12 ms-img">
+                                <div class="ms-crop">
+                                    <img class="ms-avatar" src="assets/img/message/Furuya.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row border-right" data-aos="zoom-in-up">
+                            <div class="col-lg-6 col-xs-12 ms-img">
+                                <div class="ms-crop">
+                                    <img class="ms-avatar" src="assets/img/message/Furuya.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-xs-12 ms-text">
+                                <div class="ms-box">
+                                    <div class="ms-header">
+                                        <span>{{msg_header2}}</span>
+                                    </div>
+                                    <div class="ms-content">
+                                        <span>{{{msg_content2}}}</span>
+                                    </div>
+                                </div>
+                                <div class="ms-signature">
+                                    <span>{{{msg_sign2}}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+                
+
+            </section><!-- End content Section -->
+
+            <!-- =======  Other Section ======= -->
+            <div id="other" class="other">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="left col-lg-6 col-md-12 box d-flex flex-column  align-items-center"  data-url="company">
+                            <div  class = "md-1 mouse_scroll" >
+                                <div>
+                                    <span class="m_scroll_arrows unu"></span>
+                                    <span class="m_scroll_arrows doi"></span>
+                                </div>
+                            </div>
+                            <p class="title fz-40">
+                                {{banner_right_title}}
+                            </p>
+                            <a href="./company" target="_self" class="link">
+                                <span class=" fz-14">
+                                    {{banner_right_desc}}
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class=" right col-lg-6 col-md-12 box d-flex flex-column  align-items-center" data-url="history">
+                            <p class="title fz-40">
+                                {{banner_left_title}}
+                            </p>
+                            <a href="./history" target="_self" class="link">
+                                <span class=" fz-14">
+                                    {{banner_left_desc}}
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!-- End content Section -->
+        </main> 
+    </script>
+
+    <div class="header"></div>
+    <div class="target-layout"></div>
+    <div class="footer"></div>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/mustache/mustache.min.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+    <script>
+        main.loadHtml('message', '1')
+    </script>
+
+</body>
+
+</html>

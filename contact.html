@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Pasona Tech Viet Nam</title>
+    <meta content="" name="description">
+
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" />
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/vendor/swiper/swiper-bundle.min.css" />
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    </script>
+</head>
+
+<body>
+    <script id="template" type="text/template">
+
+        <!-- ======= Hero Section ======= -->
+        <section id="main-top" class="main-top d-flex">
+            <div class="container-fluid">
+                <div class="main-top__link">
+                    <a href="./">
+                        {{breadcrumb_home}}
+                    </a> > {{breadcrumb_current}}
+                </div>
+                <div class="row">
+                    <p>{{breadcrumb_current}}</p>
+                </div>
+            </div>
+        </section><!-- End Hero -->
+
+
+        <main id="main">
+            <!-- ======= privacy Section ======= -->
+            <section id="contact" class="contact">
+                <div class="container">
+                    <div class="row ">
+                        <div class="pd-0 contact-form">
+                            <form action="#" class="d-flex flex-column" >
+                                <p>{{mess_contact}}</p>
+                                <div class="d-flex flex-column">
+                                    <label for="">{{company_name}}</label>
+                                    <input type="text" name="company" maxlength="100">
+                                </div>
+                                <div class="d-flex flex-column">
+                                    <label for="" class="required">{{first_last_nm}}</label>
+                                    <input type="text" name="name" maxlength="20" >
+                                    <div class="error"></div>
+                                </div>
+                                <div class="d-flex flex-column">
+                                    <label for="" class="required">{{email}}</label>
+                                    <input type="email" name="email" maxlength="100" value="">
+                                    <div class="error"></div>
+                                </div>
+                                <div>
+                                    <label for="">{{tel}}</label>
+                                    <div class="pa-flag">
+                                        <div class="select-flag">
+                                            <div class="flag">
+
+                                            </div>
+                                            <ul class="lang-phone">
+                                                <li value="">
+                                                    <img src="./assets/img/language/vn.svg" alt="">
+                                                    <span>ベトナム (+84)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/jp.svg" alt="">
+                                                    <span>日本 (+81)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/sg.svg" alt="">
+                                                    <span>シンガポール (+65)</span>
+                                                    <span></span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/mm.svg" alt="">
+                                                    <span>ミャンマー (+95)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/my.svg" alt="">
+                                                    <span>マレーシア (+60)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/th.svg" alt="">
+                                                    <span>タイ (+66)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/la.svg" alt="">
+                                                    <span>ラオス (+856)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/kh.svg" alt="">
+                                                    <span>カンボジア (+855)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/ph.svg" alt="">
+                                                    <span>フィリピン (+63)</span>
+                                                </li>
+
+                                                <li value="">
+                                                    <img src="./assets/img/language/bn.svg" alt="">
+                                                    <span>ブルネイ (+673)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/id.svg" alt="">
+                                                    <span>インドネシア (+62)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/kr.svg" alt="">
+                                                    <span>韓国 (+82)</span>
+                                                </li>
+                                                <li value="">
+                                                    <img src="./assets/img/language/cn.svg" alt="">
+                                                    <span>中国 (+86)</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <input type="text" name="tel" maxlength="20" value="">
+                                    </div>
+                                    <div class="error"></div>
+                                </div>
+                                <div class="d-flex flex-row justify-content-between" style=" margin-top: 60px;">
+                                    <div id="service">
+                                        {{#service}}
+                                            <div class="d-flex flex-row align-items-center" style="margin-bottom: 10px;">
+                                                <input type="radio" name="radio-group" value="{{value}}">
+                                                <label for="" class="fz-14">{{name}}</label>
+                                            </div>
+                                        {{/service}}
+                                        <div class="error"></div>
+                                    </div>
+                                    <select name="" class="content-service">
+                                    </select>
+                                </div>
+                                <div class="d-flex flex-column">
+                                    <label for="" class="required">{{contact}}</label>
+                                    <textarea maxlength="200" type="text" name="comment" ></textarea><label
+                                        for="content"></label>
+                                    <div class="error"></div>
+                                </div>
+                                <div
+                                    class="d-flex align-items-center justify-content-start flex-column mr-t-36 mr-bt-36">
+                                    <div class="d-flex  align-items-start justify-content-center">
+                                        <input type="checkbox" name="accept-terms" value="false" id="test">
+                                        <label for="test">{{{policy}}}</label>
+                                    </div>
+                                    <div class="error"></div>
+
+                                </div>
+                                <div class="d-flex justify-content-center">
+                                    <button type="submit" class="contact-sm">{{send}}</button>
+                                </div>
+                            </form>
+                            <div class="contact-right lign-items-center justify-content-center">
+                                <div>
+                                    <p class="st-14-fw-6" style="
+                                margin-bottom: 32px;
+                            ">PASONA TECH VIETNAM CO., LTD.</p>
+                                    <p class="st-14-fw-5">Email: inquiry@pasonatech.vn</p>
+                                    <p class="st-14-fw-5">{{{tel_contact}}}
+                                    </p>
+                                    <p class="st-14-un" style="
+                                margin-top: 32px;
+                            "> {{{fqa}}} </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- End content Section -->
+        </main>
+    </script>
+
+    <div class="header"></div>
+    <div class="target-layout"></div>
+    <div class="footer"></div>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/mustache/mustache.min.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/contact.js"></script>
+    <script>
+        main.loadHtml('contact' , '7')
+    </script>
+</body>
+
+</html>

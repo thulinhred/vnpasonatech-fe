@@ -1,0 +1,22 @@
+{
+    "ja": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "サイトポリシー&プライバシーポリシー",
+        "header": "サイトポリシー&プライバシーポリシー"
+    },
+    "vn": {
+        "breadcrumb_home": "Trang chủ",
+        "breadcrumb_current": "Chính sách bảo mật và điều khoản",
+        "header": "Chính sách bảo mật<br>và điều khoản"
+    },
+    "en": {
+        "breadcrumb_home": "Home",
+        "breadcrumb_current": "サイトポリシー&プライバシーポリシー",
+        "header": "サイトポリシー&プライバシーポリシー"
+    },
+    "kr": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "サイトポリシー&プライバシーポリシー",
+        "header": "サイトポリシー&プライバシーポリシー"
+    }
+}

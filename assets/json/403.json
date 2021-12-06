@@ -1,0 +1,18 @@
+{
+    "ja": {
+        "message": "アクセスしようとしたページは表示できませんでした",
+        "btn_home": "Home"
+    },
+    "vn": {
+        "message": "Không thể hiển thị trang bạn muốn truy cập",
+        "btn_home": "Trang chủ"
+    },
+    "en": {
+        "message": "アクセスしようとしたページは表示できませんでした",
+        "btn_home": "Home"
+    },
+    "kr": {
+        "message": "アクセスしようとしたページは表示できませんでした",
+        "btn_home": "Home"
+    }
+}

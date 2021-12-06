@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Pasona Tech Viet Nam</title>
+    <meta content="" name="description">
+
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" />
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/vendor/swiper/swiper-bundle.min.css" />
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    </script>
+</head>
+
+<body>
+
+    <script id="template" type="text/template">
+        <!-- ======= Hero Section ======= -->
+        <section id="main-top" class="main-top d-flex">
+            <div class="container-fluid">
+                <div class="main-top__link">
+                    <a href="./">
+                        {{breadcrumb_home}}
+                    </a> > {{breadcrumb_current}}
+                </div>
+                <div class="row">
+                    <p>{{header}}</p>
+                </div>
+            </div>
+        </section><!-- End Hero -->
+
+
+        <main id="main" class="faq-category">
+            <div class="container faq-header">
+                <div class="row">
+                    <button>{{ques_it}}</button>
+                    <button>{{ques_bpo}}</button>
+                    <button>{{ques_hr}}</button>
+                </div>
+            </div>
+
+            <!-- ======= F.A.Q Section ======= -->
+            <section id="faq-content" class="faq-content">
+
+                <div class="container">
+
+                    <div id="qs-it" class="row">
+                        <p class="faq-content-title">{{ques_it}}</p>
+                        <div class="accordion accordion-flush">
+                            
+                            {{#it}}
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq-it-{{idx}}">
+                                        {{quest}}
+                                    </button>
+                                </h2>
+                                <div id="faq-it-{{idx}}" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        {{{ans}}}
+                                    </div>
+                                </div>
+                            </div>
+                            {{/it}}
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <p class="faq-content-title">{{ques_bpo}}</p>
+                        <div class="accordion accordion-flush">
+
+                            {{#bpo}}
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq-bpo-{{idx}}">
+                                        {{quest}}
+                                    </button>
+                                </h2>
+                                <div id="faq-bpo-{{idx}}" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        {{{ans}}}
+                                    </div>
+                                </div>
+                            </div>
+                            {{/bpo}}
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <p class="faq-content-title">{{ques_hr}}</p>
+                        <div class="accordion accordion-flush">
+
+                            {{#hr}}
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq-hr-{{idx}}">
+                                        {{quest}}
+                                    </button>
+                                </h2>
+                                <div id="faq-hr-{{idx}}" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        {{{ans}}}
+                                    </div>
+                                </div>
+                            </div>
+                            {{/hr}}
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </section><!-- End F.A.Q Section -->
+        </main>
+    </script>
+
+    <div class="header"></div>
+    <div class="target-layout"></div>
+    <div class="footer"></div>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/mustache/mustache.min.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+    <script>
+        main.loadHtml('fqa', '6')
+    </script>
+
+</body>
+
+</html>
