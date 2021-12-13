@@ -1,0 +1,34 @@
+{
+    "ja": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "HRソリューションについて",
+        "header": "ITソリューション",
+        "message": "弊社採用につきましては、以下へお問い合わせください",
+        "company": "PASONA TECH VIETNAM CO., LTD.",
+        "tel": "電話番号: <a href='tel:+842838127150'>+84-28-3812-7150</a> (日本語/英語/ベトナム語)"
+    },
+    "vn": {
+        "breadcrumb_home": "Trang chủ",
+        "breadcrumb_current": "Về dịch vụ HR Solution",
+        "header": "Về dịch vụ HR Solution",
+        "message": "Mọi thắc mắc về thông tin tuyển dụng xin vui lòng liên hệ theo số điện thoại và email bên dưới.",
+        "company": "PASONA TECH VIETNAM CO., LTD.",
+        "tel": "Điện thoại: <a href='tel:+842838127150'>+84-28-3812-7150</a> (tiếng Nhật/tiếng Anh/tiếng Việt)"
+    },
+    "en": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "About HR Solution",
+        "header": "About HR Solution",
+        "message": "弊社採用につきましては、以下へお問い合わせください",
+        "company": "PASONA TECH VIETNAM CO., LTD.",
+        "tel": "電話番号: <a href='tel:+842838127150'>+84-28-3812-7150</a> (日本語/英語/ベトナム語)"
+    },
+    "kr": {
+        "breadcrumb_home": "トップ",
+        "breadcrumb_current": "HRソリューションについて",
+        "header": "HRソリューションについて",
+        "message": "弊社採用につきましては、以下へお問い合わせください",
+        "company": "PASONA TECH VIETNAM CO., LTD.",
+        "tel": "電話番号: <a href='tel:+842838127150'>+84-28-3812-7150</a> (日本語/英語/ベトナム語)"
+    }
+}
