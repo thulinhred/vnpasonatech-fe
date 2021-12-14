@@ -2441,18 +2441,13 @@ button.home {
 
 /* fix button header */
 .s-border-reverse {
-  /* width: 160px;
-  height: 40px; */
   background: #ba1d24;
   border: 3px solid #ba1d24 !important;
   text-transform: uppercase !important;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
-  font-weight: 500 !important;
-  line-height: 14px;
   letter-spacing: var(--letter-style) !important;
-  font-size: var(--font-en) !important;
   transition: 0.5s !important;
   padding: 0.5rem 1rem !important;
   margin-right: 24px;
